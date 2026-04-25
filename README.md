@@ -7,7 +7,7 @@ HTML / CSS / JavaScript のみで動作します。
 
 GitHub Pagesで公開後、ここにURLを記載します。
 
-https://あなたのユーザー名.github.io/neko-dash/
+https://eury-iku.github.io/neko-dash/
 
 ## Features
 
